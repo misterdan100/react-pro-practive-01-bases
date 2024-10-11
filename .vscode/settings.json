@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "editorGroup.border": "#93e6fc",
+        "panel.border": "#93e6fc",
+        "sash.hoverBorder": "#93e6fc",
+        "tab.activeBorder": "#93e6fc"
+    },
+    "peacock.color": "#61dafb"
+}
